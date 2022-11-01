@@ -21,9 +21,7 @@ Using equal to(==) and not equal to(!=) operator we can compare the inputs.
 
 ## Step 5:
 Print the result.
- 
- <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
- 
+
  ## Program:
  ```
  using System;
@@ -69,11 +67,8 @@ namespace OperOverload
    }
 }
  ```
- <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
- 
  ## Output:
  ![image](12.jpeg)
-
  
  ## Result:
 C# program using operator overloading is implemented successfully.
