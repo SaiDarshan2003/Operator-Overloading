@@ -68,7 +68,7 @@ namespace OperOverload
 }
  ```
  ## Output:
- ![image](12.jpeg)
+ ![image](12.jpg)
  
  ## Result:
 C# program using operator overloading is implemented successfully.
