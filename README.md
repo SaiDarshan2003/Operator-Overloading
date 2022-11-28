@@ -1,8 +1,4 @@
-### EX NO : 06
-### DATE  : 12.05.2022
-# <p align="center">Operator-Overloading</p>
-
-
+### EX NO : 06Operator-Overloading
 ## Aim:
  To write a C# program to find the volume of a box using operator overloading
  
